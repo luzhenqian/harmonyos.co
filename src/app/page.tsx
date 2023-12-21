@@ -1,7 +1,7 @@
 export default function Home() {
   return (
     <div className="min-h-screen bg-gray-900 flex flex-col items-center justify-center">
-      <div className="max-w-6xl">
+      <div className="max-w-6xl p-8 md:p-0">
         <h1 className="text-5xl text-white font-bold mb-8 animate-pulse">
           内容即将推出！
         </h1>
